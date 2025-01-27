@@ -1,1 +1,1 @@
-streamlit run Breast_Cancer_Pred.py
+streamlit run Main.py
