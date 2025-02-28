@@ -40,15 +40,6 @@ streamlit run Main/Main.py
 4. **Prediction Input** – Users enter tumor feature values manually.
 5. **Get Prediction** – The app classifies the tumor as **Malignant** or **Benign**.
 
-## 📷 Screenshots
-| **Input Details** | **Jupyter Notebook** |
-|------------------|------------------|
-| ![Input](Screenshots/Input-Details.png) | ![Jupyter](Screenshots/Jupyter-Environment.png) |
-
-| **Prediction Result** | **Web Application UI** |
-|------------------|------------------|
-| ![Result](Screenshots/Result.png) | ![UI](Screenshots/Web-Application-UI.png) |
-
 ## 📜 License
 This project is licensed under the Apache License 2.0.
 
